@@ -127,7 +127,7 @@ image = adaptive_system.generate_adaptive_image(prompt, verbose=True)
 📦 winter-diffusion-challenge/
 ├── 📄 README.md
 ├── 📓 The_winter_is_coming.ipynb       # Main notebook
-├── 📓 prova.ipynb                      # Base64 conversion utilities
+├── 📓 converter.ipynb                  # Base64 conversion utilities
 ├── 📊 prompts.csv                      # Input prompts dataset
 ├── 📊 adaptive_submission.csv          # Final results
 └── 🖼️ images/                          # Generated image samples
